@@ -1,6 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { Label } from 'ng2-charts';
-import { ChartType } from 'chart.js';
+
 
 @Component({
   selector: 'app-graficas1',
